@@ -6,7 +6,9 @@ IP address: 52.26.114.117
 SSH port: 2200
 
 URL to catalog application:
+
 http://52.26.114.117/
+
 http://ec2-52-26-114-117.us-west-2.compute.amazonaws.com/
 
 ## User configuration
